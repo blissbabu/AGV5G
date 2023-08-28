@@ -1,0 +1,1 @@
+["left", "right", "sponge", "cone", "person", "stop", "speed limit"]

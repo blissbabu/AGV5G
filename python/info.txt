@@ -1,0 +1,7 @@
+config.yaml is used for training datasets
+run train.py for training the custom datasets
+run the home.py from the terminal 
+click on live image detection button for detection to start 
+in runs>detect>train16>weights>best.pt file is used as the model for object detection which is custom trained using yolov8n model
+
+

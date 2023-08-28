@@ -1,0 +1,13 @@
+path: C:\Users\Blison\Downloads\train-yolov8-custom-dataset-step-by-step-guide-master\train-yolov8-custom-dataset-step-by-step-guide-master\local_env
+train: images  # train images (relative to 'path')
+val: images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: left
+  1: right
+  2: sponge
+  3: cone
+  4: person
+  5: stop
+  6: speed limit
